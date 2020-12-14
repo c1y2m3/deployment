@@ -2,11 +2,11 @@
 安装0.33.0版本的frp服务端
 
 ```
-bash install frp
+bash install.sh frp
 ```
 
 安装4.0版本的CobaltStrike~
 
 ```
-bash install cs
+bash install.sh cs
 ```
