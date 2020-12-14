@@ -11,4 +11,3 @@ bash install frp
 ```
 bash install cs
 ```
-
